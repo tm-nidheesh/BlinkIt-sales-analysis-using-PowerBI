@@ -1,8 +1,7 @@
-# BlinkIt-sales-analysis-using-PowerBI
+# Goal
+The BlinkIt Sales Analysis project aimed to deliver an in-depth analysis of sales data to help the client make informed business decisions. Utilizing Power BI, the project encompassed several critical steps: data walkthrough, data connection, data cleaning, data modeling, data processing, DAX calculation, dashboard layouts, chart development and formatting, report development, and insight generation.
 
-The Blink It Sales Analysis project aimed to deliver an in-depth analysis of sales data to help the client make informed business decisions. Utilizing Power BI, the project encompassed several critical steps: data walkthrough, data connection, data cleaning, data modeling, data processing, DAX calculation, dashboard layouts, chart development and formatting, report development, and insight generation.
-
-# Client Requirements
+# Business requirements
 The client's business requirements focused on creating Key Performance Indicators (KPIs) and charts to aid in strategic decision-making. The specific requirements were as follows:
 
 # KPIs:
@@ -38,4 +37,7 @@ Average Rating: Mean customer rating of the products.<br>
 4. Outlet Performance: Analyzed sales performance based on outlet characteristics such as establishment year, size, and location, identifying key drivers of success.<br>
 5. Geographical Insights: Highlighted regional sales performance, enabling targeted marketing and sales strategies.<br>
 
-The project successfully met the client's requirements, providing them with a powerful tool to visualize their sales data and gain valuable business insights. The analysis empowered the client to make data-driven decisions, ultimately leading to improved business performance.
+The project successfully met the client's requirements, providing them with a powerful tool to visualize their sales data and gain valuable business insights. The analysis empowered the client to make data-driven decisions, ultimately leading to improved business performance.<br>
+
+<img width="582" alt="blinkit_dashboard" src="https://github.com/user-attachments/assets/19293dfc-4746-4b6d-af62-c80d4ee25892">
+
